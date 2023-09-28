@@ -1,0 +1,23 @@
+header{
+    background: url(https://th.bing.com/th/id/R.6b9f60b1cff3a2013075bc27be3ae89e?rik=P3aEy0yRJ%2ba8Mw&riu=http%3a%2f%2fwww.pgj.col.gob.mx%2f2017%2fviolencia_de_genero%2fimg%2fbanner_vgenero.png&ehk=7RCxLMfBXfi3OzWK0XZEnNsgEPEaP1bEic76h3EKTGY%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-position:center;
+    height: 300px;
+}
+.container{
+    display:flow-root;
+    justify-content: right;
+}
+.imagen{
+    width: 350px;
+    height: 250px;
+}
+.txt{
+    margin-right: 50px;
+}
+footer{
+    background-color: rgb(241, 163, 163);
+}
+p{
+    text-align: justify;
+}

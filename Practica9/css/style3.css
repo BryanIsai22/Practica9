@@ -1,0 +1,12 @@
+header{
+    background: url(https://1.bp.blogspot.com/-9d4FTJnmLcE/W_YGU3PUePI/AAAAAAAAAfk/5fyXvZq3ABYsmQuqDR4tPq2t_ywu9VbzQCLcBGAs/w1200-h630-p-k-no-nu/Interactive%2Bcover_PNG.png);
+    background-size: cover;
+    background-position:center;
+    height: 300px;
+}
+p{
+    text-align: justify;
+}
+footer{
+    background-color: rgb(241, 163, 163);
+}
